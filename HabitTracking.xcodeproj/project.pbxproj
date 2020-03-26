@@ -13,6 +13,7 @@
 		A5805C90242C278E006D6094 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5805C8F242C278E006D6094 /* Assets.xcassets */; };
 		A5805C93242C278E006D6094 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5805C92242C278E006D6094 /* Preview Assets.xcassets */; };
 		A5805C96242C278E006D6094 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5805C94242C278E006D6094 /* LaunchScreen.storyboard */; };
+		A5805C9E242C2D47006D6094 /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5805C9D242C2D47006D6094 /* AddView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A5805C92242C278E006D6094 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A5805C95242C278E006D6094 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A5805C97242C278E006D6094 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A5805C9D242C2D47006D6094 /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				A5805C94242C278E006D6094 /* LaunchScreen.storyboard */,
 				A5805C97242C278E006D6094 /* Info.plist */,
 				A5805C91242C278E006D6094 /* Preview Content */,
+				A5805C9D242C2D47006D6094 /* AddView.swift */,
 			);
 			path = HabitTracking;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A5805C9E242C2D47006D6094 /* AddView.swift in Sources */,
 				A5805C8A242C278D006D6094 /* AppDelegate.swift in Sources */,
 				A5805C8C242C278D006D6094 /* SceneDelegate.swift in Sources */,
 				A5805C8E242C278D006D6094 /* ContentView.swift in Sources */,
